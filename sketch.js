@@ -1,7 +1,7 @@
 // ==============================
 // GLOBALE SKALIERUNG
 // ==============================
-let RES_SCALE = 1;
+let RES_SCALE = 3;
 const BASE_W = 270;
 const BASE_H = 480;
 
